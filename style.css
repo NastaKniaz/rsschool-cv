@@ -1,0 +1,18 @@
+.container{
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+}
+.name{
+  font-family: Helvetica;
+  font-size: 30px;
+}
+.title{
+  font-family: Helvetica;
+  font-size: 22px;
+}
+.text {
+  font-family: Helvetica;
+  font-size: 16px;
+}
