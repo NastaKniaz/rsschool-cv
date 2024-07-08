@@ -1,4 +1,4 @@
 # rsschool-cv
 
-https://github.com/NastaKniaz/rsschool-cv/cv
-https://github.com/NastaKniaz/rsschool-cv
+https://NastaKniaz.github.com/rsschool-cv/cv
+https://NastaKniaz.github.com/rsschool-cv/
