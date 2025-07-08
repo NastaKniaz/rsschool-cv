@@ -18,3 +18,11 @@ I'm a UX/UI designer and now I decided to study fronted development, I think it'
 * CSS
 * a little knowledge JS
 * Module Bundlers: Gulp, Webpack
+## Education
+* Web Design course (2023-2024)
+* Coursera course HTML/CSS
+* Minsk College of Entrepreneurship, full-time, accounting, analysis and control, from 2014 to 2017
+## Languages
+* Russian (native)
+* Belarusian (native)
+* English (A2)
